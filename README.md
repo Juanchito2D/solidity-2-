@@ -1,6 +1,6 @@
 # solidity-2-
 Ejercicios de solidity 
+ 
+## Cambio REMIX 
 
-##Cambio
-
-Ejemplo de cambio en "REMIX" y que se ve en Github
+Ejemplo de cambio en "REMIX" que se ve en GitHub 
